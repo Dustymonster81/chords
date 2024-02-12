@@ -1,4 +1,4 @@
-aiohttp==3.7.4.post0
+aiohttp==3.9.2
 astroid==2.8.0
 async-timeout==3.0.1
 attrs==21.2.0
@@ -26,3 +26,4 @@ typing-extensions==3.10.0.2
 wrapt==1.12.1
 yarl==1.6.3
 youtube-dl==2021.6.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
