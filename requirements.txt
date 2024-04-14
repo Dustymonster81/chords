@@ -7,7 +7,7 @@ cffi==1.14.6
 chardet==4.0.0
 discord.py==1.7.3
 ffmpeg==1.4
-idna==3.2
+idna==3.7
 idna-ssl==1.1.0
 isort==5.9.3
 lazy-object-proxy==1.6.0
